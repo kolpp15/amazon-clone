@@ -8,9 +8,7 @@ function App() {
     // BEM
     <div className="App">
       <Header />
-
       <Home />
-
     </div>
   );
 }
